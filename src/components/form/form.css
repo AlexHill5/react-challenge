@@ -1,0 +1,7 @@
+.ant-input-disabled {
+    color: black !important;
+}
+
+.ant-input-disabled[disabled] + input {
+    color: black !important;
+}
